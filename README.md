@@ -3,6 +3,8 @@ Revisiting an old backtracking algorithm. One of my good friends and good progra
 asked how to do so and to make it different, in dart language. This grabbed my curiosity and
 i tried. So here it is
 
+Thank you [dawnawaits](https://github.com/dawnawaits) for indulging me to look on the problem
+
 # main.dart
 
 Contains a class NQueens which has 2 fields. 
